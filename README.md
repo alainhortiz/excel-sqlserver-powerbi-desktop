@@ -11,7 +11,7 @@
 7. Establecemos las relaciones.
 8. Creación de una tarea de ejecución de SQL para vaciar la(s) tabla(s) destino.
 9. Generamos la consulta y verificamos que funciona correctamente en SSMS.
-10. Copfiguramos la tarea de ejecución de SQL.
+10. Configuramos la tarea de ejecución de SQL.
 11. Establecemos la relación.
 12. Ejecutamos el proyecto.
 13. Verificamos que se han obtenido todos los datos a través de una consulta en SSMS.
